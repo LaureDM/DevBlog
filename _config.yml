@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Lowpoly Blog
+title: 3D Art Blog
 email: lauredemey@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog where I post the progress of the lowpoly games I create. Or at least try to.
+  A blog where I post some 3D models I make. I'm new to 3D and I try to improve my skills by posting a new model here every week.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lauredm.github.io" # the base hostname & protocol for your site
 twitter_username: Laure_DeMey
