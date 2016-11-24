@@ -17,3 +17,5 @@ This is a lamp I made in Blender. I'm trying to create as many city assets as po
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
 </div>
+
+{% include GA.html %}
