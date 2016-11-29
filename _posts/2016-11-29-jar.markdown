@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Jar"
+date:   2016-11-29 20:20:00 +0200
+categories: Blender
+image: /assets/jarmovie.gif
+---
+I recently started this new routine where I would start a new 3D project every week and work on it 7 days. When those 7 days are over I have to post the work online, no matter what.
+So this is the first outcome of that routine, a simple and ordinary jar.
+I had some trouble with the glass texture, wich I'm still not happy about. The jar looks simple but it was challenging to go from the 6-sides jar to the rounder 12-side top.
+
+![Jar]({{page.image}})
+
+Here are some more images of my work.
+
+![Jar](/assets/jar_drawing.jpg)
+
+![Jar](/assets/jar_blender.png)
+
+![Jar](/assets/jar_wireframe.png)
