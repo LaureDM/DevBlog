@@ -1,0 +1,55 @@
+---
+layout: post
+title:  "Boombox"
+date:   2016-12-08 14:00:00 +0200
+categories: Blender
+image: /assets/boomboxmovie.gif
+---
+This week I worked on a Boombox (I worked one day longer than I should have worked :s)
+
+I'm quite happy with the result although I could've put more work into the texturing and finishing touches. But I ran out of time so I kinda stopped working on the details.
+The buttons on top of the radio were supposed to have some more details on them (I was going to design textures) but in the end I thought it wouldn't make a big difference anyway. Maybe I'll retexture it in the future.
+
+I learned a lot of new Blender tools making this! For example the knife tool to cut out the smaller squares here and there. Also the 'Dissolve Faces' is something I discovered during this project and I think it's great.
+It's great for having less faces after a subdivide or extend. I used it to clean up my faces when the Boombox was finished.
+Another blender thing I learned was the "bridge edge loops", I used to do that manually before. Saved me some clicking work!
+Finally I learned how to apply textures and UV map them. Glad I sat through some tutorials because it isn't difficult at all. I used to avoid textures 😬
+
+It is a little less lowpoly than I usually go for!
+
+![Boombox]({{page.image}})
+
+Here are some more images of the project process:
+
+![Boombox Drawing](/assets/boombox_drawing.png)
+
+![Boombox Drawing Back](/assets/boomboxback_drawing.png)
+
+![Boombox WIP](/assets/boombox_wip.png)
+
+![Boombox Object Mode](/assets/boombox_object.png)
+
+![Boombox Edit Mode](/assets/boombox_edit.png)
+
+![Boombox Edit Mode](/assets/boombox_edit_2.png)
+
+![Boombox Edit Mode](/assets/boomboxback_edit.png)
+
+![Boombox Edit Mode](/assets/boombox_wireframe.png)
+
+This was the reference I based my model on:
+
+![Boombox Edit Mode](/assets/boombox_ref.jpg)
+
+View it on Sketchfab!
+
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/281c3d3e7b4d411d952578b0c3a10a16/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/281c3d3e7b4d411d952578b0c3a10a16?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Boombox</a>
+    by <a href="https://sketchfab.com/lolopoly?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Laure</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+
+{% include GA.html %}
