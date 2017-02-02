@@ -8,7 +8,7 @@ image: /assets/treasurechestmovie.gif
 
 I spent way too much time on this asset 🙀
 The modeling itself didn't take very long, but I spent a lot of time figuring out animation, texturing and creating particles.
-I even learnt how to make hand painted textures, but find out it would take even more time :')
+I even learnt how to make hand painted textures, but found out it would take even more time :')
 
 I am proud of my sparkles particle effect though 😌 ✨
 
