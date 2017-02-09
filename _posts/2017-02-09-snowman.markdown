@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Snowman"
+date:   2017-02-09 10:00:00 +0100
+categories: Blender
+image: /assets/snowmanmovie2.gif
+---
+
+Back on track!
+
+Had a lot of fun making these, modeling the snow was more freestyle than other models I made.
+I even had time to make a smaller version, a baby snowman. I think with some different colors he could also look a little bit like a penguin.
+
+![Snowmen]({{page.image}})
+
+![Snowmen big model](/assets/snowman.png)
+
+![Snowmen small model](/assets/snowman_small.png)
+
+I wanted to give the snowmen a snow texture and a scarf texture, but for some reason they looked completely messed up. I made a UV map in Blender and tried many different settings in Unity but nevertheless it kept looking weird and stretchy.
+
+![Snowmen with textures](/assets/snowman_texture.png)
+
+I got a new mechanic pencil for my birthday and it's great. I used it for sketching some snowmen.
+
+![Snowmen sketches](/assets/snowman_sketch.jpg)
+
+I used the following images as a reference, the first for the big snowman, the second for the small one.
+
+![Snowmen Big ref](/assets/snowman_big_ref.jpg)
+
+![Snowmen small ref](/assets/snowman_small_ref.jpeg)
+
+The snow was made with a particle!
+
+View them on Sketchfab!
+
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/d9c66891c37d45058fbe38f89580cb9e/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/d9c66891c37d45058fbe38f89580cb9e?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Snowman</a>
+    by <a href="https://sketchfab.com/lolopoly?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Laure</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+
+<div class="sketchfab-embed-wrapper"><iframe width="640" height="480" src="https://sketchfab.com/models/55a5fb7f75514588b82207bdf6deb73b/embed" frameborder="0" allowvr allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+<p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
+    <a href="https://sketchfab.com/models/55a5fb7f75514588b82207bdf6deb73b?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Baby Snowman</a>
+    by <a href="https://sketchfab.com/lolopoly?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Laure</a>
+    on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campain=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
+</p>
+</div>
+
+{% include GA.html %}
