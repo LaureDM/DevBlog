@@ -16,13 +16,12 @@
 title: 3D Art Blog
 email: lauredemey@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog where I post some 3D models I make. I'm new to 3D and I try to improve my skills by posting a new model here every week.
+  A blog where I post some 3D models I make. I'm new to 3D and I try to improve my skills by posting a new model here every week.   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lauredm.github.io" # the base hostname & protocol for your site
 twitter_username: Laure_DeMey
 github_username:  LaureDM
-headline: TODO HEADLINE
-brand: TODO BRAND
 
 # Build settings
 markdown: kramdown
+theme: minima
